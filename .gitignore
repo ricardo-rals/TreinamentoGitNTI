@@ -1,2 +1,9 @@
 # Arquivos com infomrações sensíveis
 .env
+
+# Arquivos temporários
+temp/
+
+# Arquivos de terceiros
+node_modules/
+bin/
